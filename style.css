@@ -1,0 +1,57 @@
+img{
+    width:100px;
+    height: 100px;
+}
+body{
+    background-image: linear-gradient(to left bottom, #8a8fff, #b584f0, #d47adc, #ea72c4, #f86dab, #ff7596, #ff8284, #ff9077, #ffaa72, #ffc674, #fce180, #f1fc97);
+}
+#testing_waterbottle_div{
+    text-align: center;
+    font-family: 'Sansita', sans-serif;
+    border-radius: 10px;
+    border-style: double;
+    box-shadow: 5px 5px 18px black;
+    margin-top: 100px;
+    letter-spacing: 1px;
+    background-image: linear-gradient(to left bottom, #b5e1ff, #96e5ff, #75e9f6, #60ebe3, #63ebc6, #83e5a6, #a2de89, #bfd471, #ddc368, #f3b26f, #fda280, #fc9797);
+}
+
+#testing_owl_div{
+    text-align: center;
+    font-family: 'Sansita', sans-serif;
+    border-radius: 10px;
+    border-style: double;
+    box-shadow: 5px 5px 18px black;
+    margin-top: 50px;
+    margin-left: 575px;
+    letter-spacing: 1px;
+    background-image: linear-gradient(to left bottom, #a5a6b9, #a092b5, #a57ba7, #ae608f, #b4436d, #b83c5b, #b83947, #b53932, #b94b32, #bc5c35, #be6b39, #c07a40);
+}
+
+#testing_shoes_div{
+    text-align: center;
+    font-family: 'Sansita', sans-serif;
+    border-radius: 10px;
+    border-style: double;
+    box-shadow: 5px 5px 18px black;
+    margin-top: 50px;
+    margin-left: 575px;
+    letter-spacing: 1px;
+    background-image: linear-gradient(to left bottom, #3038ed, #8c2fcd, #ae37b0, #bc4b9a, #be638d, #c47286, #c68385, #c4938b, #cca28d, #d1b291, #d1c39b, #cfd4a9);
+}
+
+#testing_headphones_div{
+    text-align: center;
+    font-family: 'Sansita', sans-serif;
+    border-radius: 10px;
+    border-style: double;
+    box-shadow: 5px 5px 18px black;
+    margin-top: 50px;
+    margin-left: 575px;
+    letter-spacing: 1px;
+    background-image: linear-gradient(to left bottom, #35353a, #464e5f, #4c6c86, #468cab, #32aeca, #36c0ca, #51d0c5, #75dfbc, #a4dda5, #cad99a, #e8d49d, #fdd0ab);
+}
+
+#random{
+    margin-left: 65px;
+}
